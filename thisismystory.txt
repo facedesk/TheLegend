@@ -1,10 +1,31 @@
-this is a story 
-all about how
-my life got flip turned
-upside down
-and i'd like to take a minute
-just sitting right there
-and tell you how I became
-the fresh prince
-of bel-air
-this is a change
+Oak       : Hello there! Welcome to the world of POKEMON! My name is OAK!
+            People call me the POKEMON PROF!
+
+* - An image of a Nidorino appears.
+
+Oak       : This world is inhabited by creatures called POKEMON! For some
+            people, POKEMON are pets. Others use them for fights. Myself...
+            I study POKEMON as a profession.
+
+* - An image of a boy (the player's character) appears.
+
+Oak       : First, what is your name?
+
+* - The first option is that of the version which one is playing.
+
+Oak       : Right! So your name is RED!
+
+* - An image of another boy appears.
+
+Oak       : This is my grandson. He's been your rival since you were a baby.
+
+            ...Erm, what is his name again?
+
+* - The first option is that of the version which one is not playing.
+
+Oak       : That's right! I remember now! His name is BLUE!
+
+* - Red's image reappears.
+
+Oak       : RED! Your very own POKEMON legend is about to unfold! A world of
+            dreams and adventures with POKEMON awaits! Let's go!
